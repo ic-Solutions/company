@@ -1,0 +1,14 @@
+- url: person_1.jpg
+  name: Jean Smith
+  profile: Web Designer
+  description: Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.
+
+- url: person_2.jpg
+  name: Hush Raven
+  profile: Front-end Developer
+  description: Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.
+
+- url: person_3.jpg
+  name: Alex King
+  profile: Back-end Developer
+  description: Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.
